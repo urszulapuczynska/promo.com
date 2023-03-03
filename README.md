@@ -19,7 +19,7 @@ for macOS use HOMEBREW and type <i>~brew install python</i></li>
 <li>download PyCharm --> <a href="https://www.jetbrains.com/pycharm/download/#section=mac">Click here</a></li>
 <li>Use <i>pip</i> to install Selenium: <i>~pip install selenium</i></li>
 <li>Use <i>pip</i> to install Faker: <i>pip install faker</i></li>
-<li>Clone this repo from--> <a href="">Link to GitHub</a></li>
+<li>Clone this repo from--> <a href="https://github.com/urszulapuczynska/promo.com">Link to GitHub</a></li>
 </ul>
 <br>
 Before you go, please provide your own credentials for <b>log_in_success_test.py</b> test case.
