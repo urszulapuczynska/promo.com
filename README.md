@@ -22,5 +22,5 @@ for macOS use HOMEBREW and type <i>~brew install python</i></li>
 <li>Clone this repo from--> <a href="https://github.com/urszulapuczynska/promo.com">Link to GitHub</a></li>
 </ul>
 <br>
-Before you go, please provide your own credentials for <b>log_in_success_test.py</b> test case.
+Before you go, please provide your own credentials for: driver <b>PATH</b>, <b>log_in_success_test.py</b> test case.
 <h4>To run test on your machine use <i>~py.test</i> command in terminal of <i>PyCharm</i></h4>
